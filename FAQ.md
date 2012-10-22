@@ -5,9 +5,10 @@
 * [[ruby]]
 
 # can anyone recommend a web host?
-* [[linode]] (linode.com)
-* [[AWS]] (aws.amazon.com)
-* [[slicehost]] (slicehost.com)
+* VPS
+    * [[linode]] (linode.com)
+    * [[AWS]] (aws.amazon.com)
+    * [[slicehost]] (slicehost.com)
 
 
 # What Text Editor should I use?
@@ -20,4 +21,5 @@
 # What operating system do you use?
 * Ubuntu 12.04
 * Ubuntu 11.10
-
+* Debian 6
+* Fedora
